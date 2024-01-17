@@ -31,5 +31,7 @@ data = {
 ```
 ## Output
 An HTML file (map.html) containing an interactive map.
+![image](https://github.com/agishan/MSCI331_Map_Drone_Delivery/assets/54005039/cd364e42-17ca-479f-8184-f05b39ee6ee4)
+
 #### Note
 The script is customizable based on the specific needs of your project. You can modify the data structure, map settings, and visualization style as needed.
